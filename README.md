@@ -1,2 +1,2 @@
 # Pricing-Panel
-https://heer-gohil.github.io/Pricing-Panel/#/
+https://blue-rock.github.io/Pricing-Panel/
